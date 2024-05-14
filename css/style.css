@@ -1,0 +1,51 @@
+.body-style-dark .header .top-menu ul li a .icon,
+.body-style-dark .header .top-menu ul li a,
+.body-style-dark .card-started .profile .title,
+.body-style-dark .card-started .profile .social a .fab,
+.body-style-dark .lnk
+{
+    color: #bbbbbb;
+}
+
+.body-style-dark .header .menu-btn span,
+.body-style-dark .header .menu-btn span:before,
+.body-style-dark .header .menu-btn span:after{
+    background: #bbbbbb;
+}
+
+.info-list{
+    margin-top: .7rem;
+}
+
+
+.body-style-dark .info-list ul li a{
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.info-list ul li a {
+    color: #646464;
+}
+
+.text-box p strong{
+    color: #F6B746;
+    font-size: 22px;
+}
+
+.skills-list.list ul li .name:before{
+    display: none !important;
+}
+
+.skills-list.list ul li .name{
+    padding-left: 0px !important;
+    display: flex;
+    gap: .8rem;
+}
+
+.skills-list.list ul li .name i{
+    color: #F6B746;
+}
+
+.box-item .image a img {
+    object-fit: cover;
+    height: 160px !important;
+}
